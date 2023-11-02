@@ -165,3 +165,6 @@ data/
 
 # MAc stuff
 .DS_Store
+
+# Jupyter Notbook outputs
+.gitattributes
